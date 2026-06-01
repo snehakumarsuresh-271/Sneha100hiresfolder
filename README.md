@@ -1,6 +1,6 @@
 # Sneha "100hires" folder
   
-# - Following are some of the details and installations set up I completed for my sample submission test. 
+- Following are some of the details and installations set up I completed for my sample submission test. 
 
 # What tools did I install? 
 
