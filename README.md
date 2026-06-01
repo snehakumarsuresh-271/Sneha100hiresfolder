@@ -32,3 +32,5 @@
     
     For claude code - https://www.youtube.com/watch?v=i6AfTMWPY14; For Codex - https://www.youtube.com/watch?v=-yiWGEdLeRI
   - 3 ) For sign in on Github and creating a public repository Readme file - https://www.youtube.com/watch?v=rCt9DatF63I 
+
+ #                 Thank you for your time and patience
